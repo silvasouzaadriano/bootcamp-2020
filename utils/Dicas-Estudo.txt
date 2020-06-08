@@ -1,0 +1,37 @@
+Técnicas de aprendizado
+
+1) Pause as aulas sempre que possível para anotar ee/ou programar techos de código
+2) Controle a ansiedade quebrando os desafios utilizando um Todo List
+3) Tire um tempo para estudar e se concentre nele sem interrupçõds. Se organize para isso.
+
+Fixando o conhecimento
+
+1) Utilize a técnica de Pomodore, 25 de trabalho/estudo + 5 de descanso
+2) Assistir aula não basta. Faça anotações. Como dica utilize o Notion (https://www.notion.so/)
+3) Não decore código, monte uma base sólida de conhecimento. Subir os projetos no Github, por exemplo
+4) Ajude as outras pessoas.
+5) Escreva sobre o que você aprendeu no Bootcamp (Posts)
+6) Explicar para outras pessoas o que você aprendeu
+7) Construa projetos pessoais
+
+Obtendo resultados na carreira
+
+1) Queime a ponte. Não espere terminar o Bootcamp para correr atrás dos objetivos profissionais
+2) Coloque todos os projetos no Github com um bom README
+3) Mantenha o Linkedin atualizado, colocando posts semanais com foto ou video do que aprendeu.
+4) Ajude ao próximo dentre de comunidades.
+5) Assista as mentorias do CEO
+
+Projetos pessoais
+
+1) Analise as pessaos próxima e veja se tem alguma coisa que elas estão sofrendo
+2) Copiar projetos que já existem
+3) Utilize a lista do aplicativo Ideas (https://github.com/florinpop17/app-ideas)
+4) Ao escolher o projeto a ser criado, faça um MVP e coloque no ar o mais rápido possível.
+5) Para inspiração de layout uma boa dica é o Dribbble (https://dribbble.com/) ou o Pinterest (https://br.pinterest.com/)
+
+Criando cronograma Bootcamp
+
+1) Crie um cronograma semanal
+2) Crie um cronograma de conteúdo
+
