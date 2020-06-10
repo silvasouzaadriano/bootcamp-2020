@@ -1,5 +1,7 @@
 TypeScript/first-project/dist
 TypeScript/first-project/node_modules
+TypeScript/first-project/*.lock
 
 primeiro-projeto-node/dist
 primeiro-projeto-node/node_modules
+primeiro-projeto-node/*.lock
