@@ -5,3 +5,8 @@ TypeScript/first-project/*.lock
 primeiro-projeto-node/dist
 primeiro-projeto-node/node_modules
 primeiro-projeto-node/*.lock
+
+
+boilerplate-projeto-node/dist
+boilerplate-projeto-node/node_modules
+boilerplate-projeto-node/*.lock
